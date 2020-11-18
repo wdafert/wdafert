@@ -11,9 +11,8 @@ This brings me back to my old job - IT.
   - Wordpress and Joomla development
   - Webshops (WooCommerce, Shopify)
   - Business consulting
-  - And i am a junior Java and JavaScript developer 
-  - My portfolio includes full stack MERN applications
-  - [My portfolioTCR](https://wolfgangdafert.com/my-work/)
+  - Full stack JavaScript Developer (specialized in MERN stack)
+  - [My portfolio](https://wolfgangdafert.com/my-work/)
   
 ## More information and how to contact me
 
@@ -27,7 +26,3 @@ Please visit my website [Wolfgang Dafert](https://wolfgangdafert.com/) for more 
 ## What i am currently learning
 
 Docker, Kubernetes
-
-## What makes m
-I am native German speaker and fluent in English
-
