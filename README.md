@@ -4,7 +4,7 @@
 
 Austrian national living in Madeira, Portugal.
 I set up 3 successful companies in the Philippines in tourism.
-At the start of Covid I ventrued back into my old job - IT.
+At the start of Covid I ventured back into my old job - IT.
 Now I am a maker and AI whisperer.
 
 ## What can i help you with?
