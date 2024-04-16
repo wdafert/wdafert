@@ -12,8 +12,10 @@ Project manager, CTO, and consultant with focus on generative AI.
   - LLM consulting and training
   - Prompt engineering, RAG, Fine tuning
   - OpenAI GPT and open source LLMs
+  - Smart Automation with LLMs (Zapier, Make.com, GPT4 inside Google Sheets)
   - Business consulting and outsourcing of development
   - Planning and development of MVPs (JavaScript and Python)
+  - Webflow, WordPress and Joomla development
   
 ## More information and how to contact me
 
