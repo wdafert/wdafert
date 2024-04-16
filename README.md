@@ -3,26 +3,27 @@
 ![Wolfgang in a neoprene shirt inside a swimming pool](https://user-images.githubusercontent.com/42965956/98491087-ae3e5680-226e-11eb-84da-8a8dbb4c7cc7.jpg)
 
 Austrian national living in Madeira, Portugal.
-I set up 3 successful companies in the Philippines in tourism.
+I set up 3 successful companies in the Philippines.
 At the start of Covid I ventured back into my old job - IT.
-Now I am a maker and AI whisperer.
+Project manager, CTO, and consultant with focus on generative AI.
 
 ## What can i help you with?
 
-  - Wordpress and Joomla development
-  - Webshops (WooCommerce, Shopify)
+  - LLM consulting and training
+  - Prompt engineering, RAG, Fine tuning
+  - OpenAI GPT and open source LLMs
   - Business consulting and outsourcing of development
-  - Full stack JavaScript Developer (specialized in MERN stack)
+  - Planning and development of MVPs (JavaScript and Python)
   
 ## More information and how to contact me
 
-My latest project - [Snowball AI - A ChatGPT powered WhatsApp Assistant](https://www.snowball-ai.com) 
+[Homepage - Wolfgang Dafert](https://www.wolfgangdafert.com/)
 
 ## My previous companies
-  - [Freediving-Philippines](https://freediving-philippines.com/)
-  - [Cyan Adventures](http://cyan-adventures.com/)
-  - [Woggles - Wooden Goggles](https://www.woggles.shop/)
+  - Freediving-Philippines
+  - [Cyan Adventures](https://www.tripadvisor.com/Attraction_Review-g663539-d6219359-Reviews-Cyan_Adventures-Moalboal_Cebu_Island_Visayas.html)
+  - [Woggles - Wooden Goggles](https://www.facebook.com/woodengoggles/)
 
 ## What i am currently learning
 
-ChatGPT model training, Docker
+ML Deep dive, Transformer technology
