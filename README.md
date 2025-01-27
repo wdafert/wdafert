@@ -1,11 +1,8 @@
 # Hello, I am Wolfgang.
 
-![Wolfgang in a neoprene shirt inside a swimming pool](https://github.com/user-attachments/assets/a6f50240-a005-4d9d-a466-bdd21525e5da)
-
+![Wolfgang Dafert](https://github.com/user-attachments/assets/91e3339c-992c-4449-9d96-81801b997f1b)
 Austrian national living in Madeira, Portugal.
-I set up 3 successful companies in the Philippines.
-At the start of Covid I ventured back into my old job - IT.
-Project manager, CTO, and consultant with focus on generative AI.
+Self organized and results-driven AI Engineer & Project Manager with 9+ years of experience leading software development teams and 2+ years specializing in generative AI solutions. Proven ability to ship innovative AI applications, leveraging expertise in LLMs, cloud platforms (AWS, GCP, Azure), and Agile project management methodologies. Seeking a challenging remote role where I can contribute to developing impactful AI products and drive significant business outcomes through technical expertise and collaborative leadership.
 
 ## What can i help you with?
 
