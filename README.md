@@ -1,6 +1,6 @@
 # Hello, I am Wolfgang.
 
-![Wolfgang in a neoprene shirt inside a swimming pool](https://user-images.githubusercontent.com/42965956/98491087-ae3e5680-226e-11eb-84da-8a8dbb4c7cc7.jpg)
+![Wolfgang in a neoprene shirt inside a swimming pool](https://github.com/user-attachments/assets/a6f50240-a005-4d9d-a466-bdd21525e5da)
 
 Austrian national living in Madeira, Portugal.
 I set up 3 successful companies in the Philippines.
