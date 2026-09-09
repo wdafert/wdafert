@@ -1,24 +1,41 @@
-# Hello, I am Wolfgang.
+# Hello, I am Wolfgang (aka AI Wolf).
 
 ![Wolfgang Dafert](https://github.com/user-attachments/assets/91e3339c-992c-4449-9d96-81801b997f1b)
-Austrian national living in Madeira, Portugal.
-Self-organized and results-driven AI Engineer & Project Manager with 10+ years of experience leading software development teams and 3 years specializing in generative AI solutions. Proven ability to ship innovative AI applications, leveraging expertise in LLMs, cloud platforms (AWS, GCP, Azure), and Agile project management methodologies. Seeking a challenging remote role where I can contribute to developing impactful AI products and drive significant business outcomes through technical expertise and collaborative leadership.
 
-## What can I help you with?
+Austrian national based in Funchal, Madeira (Portugal).  
+**AI Project Manager & Evaluation Engineer · GenAI Lead Architect** · Audacious Code
 
-  - Management for GenAI projects and products
-  - LLM consulting and staff training
-  - Prompt engineering, RAG, Fine-tuning
-  - OpenAI, Gemini models, and open source LLMs
-  - Smart Automation with LLMs (Zapier, Make.com, n8n, GPT4 inside Google Sheets)
-  - Business consulting and outsourcing of development
-  - Planning and development of MVPs and PoCs (JavaScript and Python)
-  - Webflow, WordPres,s and Joomla development
-  
-## More information and how to contact me
+I turn GenAI ideas into production systems companies can trust: agentic MVPs, RAG, and evaluation pipelines that cut prompt guesswork. 11+ years leading software teams. 3+ years deep in LLMs. Recent highlight: built the [Madita](https://madita.ai/) MVP and led the live AI interview agent (A2A) for EU-compliant recruiting.
 
-[Homepage - Wolfgang Dafert](https://www.wolfgangdafert.com/)
+Looking for remote lead-architect, AI evaluation, technical PM, or consulting work where reliability beats demos.
 
-## What i am currently learning
+## What I can help with
 
-ML Deep dive, Transformer technology
+- GenAI architecture: agents, RAG, PoC → production
+- LLM evaluation and observability (Langfuse, LangSmith)
+- Technical PM / solution architecture for GenAI products
+- Prompt engineering and eval frameworks that stick in stakeholder workflows
+- Cloud / MLOps on AWS, GCP, and Azure
+- MVPs and PoCs in Python and TypeScript/JavaScript
+- Team enablement (GenAI, Cursor IDE)
+
+## Recent highlights
+
+- **Madita** ([madita.ai](https://madita.ai/)): MVP + live AI interview agent for recruiting (DSGVO / EU AI Act, multilingual, ATS-integrated)
+- **Pulsate**: Technical PM / GenAI Solution Architect (MarTech for community banks)
+- **Powerfront**: AI prompting evaluation for global e-commerce brands
+- **TST Prep**: LLM teacher support and student evaluation in production
+
+## Stack
+
+Python · FastAPI · LangChain · Google ADK · Langfuse · LangSmith · OpenAI / Gemini / Claude · AWS (SageMaker, Bedrock) · GCP Vertex AI · Azure ML · n8n
+
+## Contact
+
+- Site: [wolfgangdafert.com](https://www.wolfgangdafert.com/)
+- LinkedIn: [linkedin.com/in/wolfgang-dafert](https://www.linkedin.com/in/wolfgang-dafert)
+- Email: w.dafert@gmail.com
+
+## Currently learning
+
+Deeper ML / transformers, and shipping more agentic production systems.
