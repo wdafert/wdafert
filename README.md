@@ -1,41 +1,46 @@
-# Hello, I am Wolfgang (aka AI Wolf).
+# Hi, I'm Wolfgang
 
 ![Wolfgang Dafert](https://github.com/user-attachments/assets/91e3339c-992c-4449-9d96-81801b997f1b)
 
-Austrian national based in Funchal, Madeira (Portugal).  
-**AI Project Manager & Evaluation Engineer · GenAI Lead Architect** · Audacious Code
+**GenAI Solutions Architect · Applied AI Engineer (Agents & Evaluation)**
+Austrian (EU) citizen, based in Funchal, Madeira. Full remote.
 
-I turn GenAI ideas into production systems companies can trust: agentic MVPs, RAG, and evaluation pipelines that cut prompt guesswork. 11+ years leading software teams. 3+ years deep in LLMs. Recent highlight: built the [Madita](https://madita.ai/) MVP and led the live AI interview agent (A2A) for EU-compliant recruiting.
+I build production AI agents, with a focus on real-time voice, and I own the evaluation that decides whether they ship.
+Twenty years in software, two CTO roles, four years deep in LLMs.
 
-Looking for remote lead-architect, AI evaluation, technical PM, or consulting work where reliability beats demos.
+Most recently I led Madita.ai at HeyJobs in Berlin, a real-time voice AI interviewer for recruiting. Madita.ai is live and
+sold to paying customers, AXA among them, and it won the HR Innovation Award 2026 in the Recruiting & Attraction category
+at Zukunft Personal Europe in Cologne.
 
-## What I can help with
+Open to remote roles as Solutions Architect, Applied AI Engineer or Forward Deployed Engineer, especially on voice and
+agent products.
 
-- GenAI architecture: agents, RAG, PoC → production
-- LLM evaluation and observability (Langfuse, LangSmith)
-- Technical PM / solution architecture for GenAI products
-- Prompt engineering and eval frameworks that stick in stakeholder workflows
-- Cloud / MLOps on AWS, GCP, and Azure
-- MVPs and PoCs in Python and TypeScript/JavaScript
-- Team enablement (GenAI, Cursor IDE)
+## What I work on
 
-## Recent highlights
+- Real-time voice agents in production: latency budgets, 90+ languages, ATS integration
+- Evaluation and observability: Langfuse and LangSmith tracing, versioned prompts, LLM-as-judge and deterministic graders, release gates in CI
+- Agent architecture from first build to production on GCP Vertex AI, AWS Bedrock and Azure
+- EU AI Act and GDPR by design
+- Agentic engineering: I build with a swarm of coding agents and own the review, tests and release
 
-- **Madita** ([madita.ai](https://madita.ai/)): MVP + live AI interview agent for recruiting (DSGVO / EU AI Act, multilingual, ATS-integrated)
-- **Pulsate**: Technical PM / GenAI Solution Architect (MarTech for community banks)
-- **Powerfront**: AI prompting evaluation for global e-commerce brands
+## Recent work
+
+- **Madita.ai** (HeyJobs, Berlin, 2026), Product Lead & Evaluation Engineer: built and shipped the product end to end, from the interview flow and assessment outputs to production copilot agents
+- **Pulsate**: Technical PM and GenAI Solution Architect (MarTech for community banks)
+- **Powerfront**: prompt and evaluation work for global e-commerce brands
 - **TST Prep**: LLM teacher support and student evaluation in production
 
 ## Stack
 
-Python · FastAPI · LangChain · Google ADK · Langfuse · LangSmith · OpenAI / Gemini / Claude · AWS (SageMaker, Bedrock) · GCP Vertex AI · Azure ML · n8n
+Python · TypeScript · FastAPI · LangChain · Google ADK · Langfuse · LangSmith · OpenAI Realtime · OpenAI / Gemini / Claude · GCP Vertex AI · AWS Bedrock and SageMaker · Azure ML
+
+## Code
+
+Most of what I build belongs to the companies I built it for, so little of it is public here. I am happy to walk through
+evaluation systems, agent harnesses and my agent swarm setup in an interview.
 
 ## Contact
 
-- Site: [wolfgangdafert.com](https://www.wolfgangdafert.com/)
 - LinkedIn: [linkedin.com/in/wolfgang-dafert](https://www.linkedin.com/in/wolfgang-dafert)
 - Email: w.dafert@gmail.com
-
-## Currently learning
-
-Deeper ML / transformers, and shipping more agentic production systems.
+- Site: [wolfgangdafert.com](https://www.wolfgangdafert.com/)
