@@ -8,8 +8,8 @@ Austrian (EU) citizen, based in Funchal, Madeira. Full remote.
 I build production AI agents, with a focus on real-time voice, and I own the evaluation that decides whether they ship.
 Twenty years in software, two CTO roles, four years deep in LLMs.
 
-Most recently I led Madita.ai at HeyJobs in Berlin, a real-time voice AI interviewer for recruiting. Madita.ai is live and
-sold to paying customers, AXA among them, and it won the HR Innovation Award 2026 in the Recruiting & Attraction category
+Most recently, in a seven-month project for HeyJobs in Berlin, I took Madita.ai, a real-time voice AI interviewer for
+recruiting, from proof of concept and MVP to stable production. Madita.ai is live and sold to paying customers, AXA among them, and it won the HR Innovation Award 2026 in the Recruiting & Attraction category
 at Zukunft Personal Europe in Cologne.
 
 Open to remote roles as Solutions Architect, Applied AI Engineer or Forward Deployed Engineer, especially on voice and
@@ -25,7 +25,7 @@ agent products.
 
 ## Recent work
 
-- **Madita.ai** (HeyJobs, Berlin, 2026), Product Lead & Evaluation Engineer: built and shipped the product end to end, from the interview flow and assessment outputs to production copilot agents
+- **Madita.ai** (HeyJobs, Berlin, 2026, project engagement), Product Lead & Evaluation Engineer: took it from proof of concept and MVP to stable production, including the interview flow, assessment outputs and production copilot agents
 - **Pulsate**: Technical PM and GenAI Solution Architect (MarTech for community banks)
 - **Powerfront**: prompt and evaluation work for global e-commerce brands
 - **TST Prep**: LLM teacher support and student evaluation in production
